@@ -2,13 +2,13 @@
 
 ## Objectives
 
-1. Build a RESTful `index` action
-2. Build a RESTful `show` action
-3. Build a RESTful `new` action
-4. Build a RESTful `create` action
-5. Link pages using route helpers
-6. Use route helpers in a `redirect_to`
-7. Build a new form with a `form_tag`
+<!-- 1. Build a RESTful `index` action -->
+<!-- 2. Build a RESTful `show` action -->
+<!-- 3. Build a RESTful `new` action -->
+<!-- 4. Build a RESTful `create` action -->
+<!-- 5. Link pages using route helpers -->
+<!-- 6. Use route helpers in a `redirect_to` -->
+<!-- 7. Build a new form with a `form_tag` -->
 
 
 ## Instructions
